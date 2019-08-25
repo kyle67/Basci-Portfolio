@@ -54,4 +54,15 @@ a {
   margin-right: 20px;
 }
 
+footer {
+  background-color:black;
+  position: relative;
+  text-align: center;
+  font-size: 10px;
+  color: #eee;
+  height:30px;
+  margin-top:10px;
+  clear: both;
+}
+
   
